@@ -23,3 +23,5 @@ para retornar listas de filmes e séries. 🍿
 (fácil, não?! 😅)
 
 ## 📸 Screenshots
+<img src="https://github.com/tavaresProg/buscador-de-filmes/blob/main/screenshot%201.png" alt="TopSeries" width="50%">
+<img src="https://github.com/tavaresProg/buscador-de-filmes/blob/main/screenshot%202.png" alt="TopMovies" width ="50%">
