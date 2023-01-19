@@ -15,6 +15,7 @@ para retornar listas de filmes e séries.
 - GET dos filmes mais populares
 - GET do Top 250 melhores séries
 - GET das séries mais populares
+Obs: Os métodos acima foram configurados para mostrar os dez primeiros
 
 ## Como usar:
 - Entre no link: https://imdb-api.com/
