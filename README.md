@@ -14,7 +14,7 @@ para retornar listas de filmes e séries.
 - GET dos Top 250 filmes
 - GET dos filmes mais populares
 - GET do Top 250 melhores séries
-- GET das séries mais populares
+- GET das séries mais populares</n>
 Obs: Os métodos acima foram configurados para mostrar os dez primeiros
 
 ## Como usar:
